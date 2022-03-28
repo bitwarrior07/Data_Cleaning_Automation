@@ -1,0 +1,11 @@
+Roll_no,Name,Age,Enroll
+1,x,19,Yes
+2,y,,Yes
+3,z,18,No
+4,,18,Yes
+5,p,19,No
+6,r,18,No
+7,s,,No
+8,t,19,
+9,,,Yes
+10,u,18,No
